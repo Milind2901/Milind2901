@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Milind2901
-- 👀 I’m interested in Astrophysics , Astronomy and Data 
+- 👀 I’m interested in Astrophysics , Astronomy and Data Analytics
 - 🌱 I’m currently exploring Data Analytics and trying my hands with web dev  
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 How to reach me : timchaturvedi29@gmail.com
